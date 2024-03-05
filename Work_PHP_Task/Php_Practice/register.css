@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav1{
+    background-color: #0048edfa;
+}
+.link1{
+    padding: 7px 27px;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-family: sans-serif;
+    background-color: cadetblue;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.div1{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.child1{
+    position: relative;
+    left: 10%;
+}
+.child2{
+    position: relative;
+    top: 34px;
+    right: 13%;
+}
+.img{
+    overflow:hidden;
+}
+.div2{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    
+    width: 27%;
+    margin-left: 36%;
+    margin-top: 50px;
+    border-radius: 5px;
+    background-color: white;
+}
+.child3{
+    width: 100%;
+    text-align: center;
+}
+.form-content{
+    margin-top: 10px;
+}
+.para1{
+    font-weight: bold;
+}
+.inp{
+    width: 100%;
+    height: 34px;
+    border: 0.5px solid #afa3a3;
+    border-radius: 5px;
+    box-shadow: rgb(200, 208, 231) 3.2px 3.2px 8px 0px inset, rgb(255, 255, 255) -3.2px -3.2px 8px 0px inset;
+}
+.req-fd{
+    color: crimson;
+}
+.preview{
+    font-size: 15px;
+    font-weight: bold;
+    font-family: sans-serif;
+    padding: 8px 30px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin-top: 20px;
+}
